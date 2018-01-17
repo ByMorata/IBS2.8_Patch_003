@@ -1,6 +1,6 @@
 package _01_basic._00_进程与线程._005_实现类方法;
 
-public class _00_判断线程是否处于活动状态 extends Thread {
+public class _00_判断线程是否处于活动状态_isAlive extends Thread {
 
     @Override
     public void run() {
@@ -9,7 +9,7 @@ public class _00_判断线程是否处于活动状态 extends Thread {
     }
 
     public static void main(String[] args) throws Exception {
-        _00_判断线程是否处于活动状态 class_00 = new _00_判断线程是否处于活动状态();
+        _00_判断线程是否处于活动状态_isAlive class_00 = new _00_判断线程是否处于活动状态_isAlive();
 
         Long string_00 = class_00.getId();
         System.out.println(string_00);
