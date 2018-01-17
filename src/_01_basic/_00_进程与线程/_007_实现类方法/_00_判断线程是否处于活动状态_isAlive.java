@@ -1,4 +1,4 @@
-package _01_basic._00_进程与线程._005_实现类方法;
+package _01_basic._00_进程与线程._007_实现类方法;
 
 public class _00_判断线程是否处于活动状态_isAlive extends Thread {
 
