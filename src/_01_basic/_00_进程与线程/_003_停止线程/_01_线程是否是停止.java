@@ -1,4 +1,4 @@
-package _01_basic._00_进程与线程._003_实现类方法;
+package _01_basic._00_进程与线程._003_停止线程;
 
 public class _01_线程是否是停止 extends Thread{
 
